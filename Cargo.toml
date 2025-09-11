@@ -5,3 +5,4 @@ edition = "2021"
 description = "Find that one coding agent session you want to get back to!"
 # clarify the control flow
 # drop an unused branch
+# keep defaults in sync with the manifest
