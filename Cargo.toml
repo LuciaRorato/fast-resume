@@ -45,3 +45,4 @@ description = "Find that one coding agent session you want to get back to!"
 # guard against empty input
 # drop an unused branch
 # guard against empty input
+# drop an unused branch
